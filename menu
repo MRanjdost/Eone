@@ -1,0 +1,467 @@
+{
+  "cafe": {
+    "title": "ESPRESSO BASED",
+    "categories": [
+      {
+        "name": "NEW at E1",
+        "items": [
+          {
+            "name": "لاته ترامیسو",
+            "price": 290
+          },
+          {
+            "name": "لاته اسپنیش",
+            "price": 260
+          },
+          {
+            "name": "پروشیــــک",
+            "price": 290
+          }
+        ]
+      },
+      {
+        "name": "Espresso based",
+        "items": [
+          {
+            "name": "اسپرسو",
+            "price": 160
+          },
+          {
+            "name": " آمریکانو",
+            "price": "(M/L) 170 - 175"
+          },
+          {
+            "name": "رومانو",
+            "price": "(M/L) 180 - 185"
+          },
+          {
+            "name": "اسپرسوماکیاتو",
+            "price": 175
+          },
+          {
+            "name": "کن پانا",
+            "price": 185
+          },
+          {
+            "name": "کورتادو",
+            "price": 180
+          },
+          {
+            "name": "کاپوچینو",
+            "price": 195
+          },
+          {
+            "name": "لاته",
+            "price": 190
+          },
+          {
+            "name": "کارامل ماکیاتو",
+            "price": " (M/L) 220 - 230"
+          },
+          {
+            "name": "موکا",
+            "price": "(M/L) 220 - 230 "
+          },
+          {
+            "name": "لته طعم دار ",
+            "price": "(M/L) 250 - 270"
+          },
+          {
+            "name": "(نوتلا، لوتوس، پسته، توت فرنگی)",
+            "price": ""
+          },
+          {
+            "name": "آفوگاتو",
+            "price": 260
+          },
+          {
+            "name": "فراپه کلاسیک",
+            "price": 260
+          },
+          {
+            "name": "فراپه الیت",
+            "price": 285
+          }
+        ]
+      }
+    ]
+  },
+  "brewedcoffee": {
+    "title": "BREWED COFFEE",
+    "categories": [
+      {
+        "name": "Brewed coffee",
+        "items": [
+          {
+            "name": "V60",
+            "price": " 305 - 335"
+          },
+          {
+            "name": "ایروپرس ",
+            "price": " 295 - 325"
+          },
+          {
+            "name": "دریپ",
+            "price": 170
+          },
+          {
+            "name": "کلدبرو",
+            "price": 325
+          },
+          {
+            "name": "ایبریک",
+            "price": 240
+          },
+          {
+            "name": "قهوه ترک",
+            "price": 160
+          }
+        ]
+      }
+    ]
+  },
+  "chocolate": {
+    "title": "CHOCOLATE BAR",
+    "categories": [
+      {
+        "name": "Chocolate Bar",
+        "items": [
+          {
+            "name": "شکلات گرم",
+            "price": 250
+          },
+          {
+            "name": "شکلات سرد",
+            "price": 250
+          },
+          {
+            "name": "شوکو بری",
+            "price": 280
+          },
+          {
+            "name": "شوکو براونی",
+            "price": 300
+          },
+          {
+            "name": "شوکو پف",
+            "price": 310
+          },
+          {
+            "name": "شوکو مارشملو",
+            "price": 310
+          }
+        ]
+      }
+    ]
+  },
+  "hotbeverage": {
+    "title": "HOT BEVERAGE",
+    "categories": [
+      {
+        "name": "Hot Drinks",
+        "items": [
+          {
+            "name": "هات چاکلت فندق",
+            "price": "(M/L) 200 - 220"
+          },
+          {
+            "name": "وایت چاکلت نارگیل",
+            "price": "(M/L) 200 - 220"
+          },
+          {
+            "name": "هات لوتوس",
+            "price": "(M/L)205 - 225"
+          },
+          {
+            "name": "شیر شکلات",
+            "price": "(M/L) 190 - 210"
+          },
+          {
+            "name": "هات پسته زعفرانی",
+            "price": "(M/L) 220 - 245"
+          },
+          {
+            "name": "ماسالا",
+            "price": "(M/L) 185 - 205"
+          },
+          {
+            "name": "ماچا لته",
+            "price": 250
+          },
+          {
+            "name": "چای مراکشی",
+            "price": "(M/L)90 - 95"
+          },
+          {
+            "name": "چای سبز دارچین",
+            "price": "(M/L)120 - 125"
+          },
+          {
+            "name": "دمنوش",
+            "price": "(M/L)155 - 160"
+          },
+          {
+            "name": "(سداتیو/گلدمیکس/کلدگارد)",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  "coldbeverage": {
+    "title": "COLD BEVERAGE",
+    "categories": [
+      {
+        "name": "Cold Drinks",
+        "items": [
+          {
+            "name": "لیموناد",
+            "price": 170
+          },
+          {
+            "name": "موهیتو",
+            "price": 190
+          },
+          {
+            "name": "چرچیل",
+            "price": 150
+          },
+          {
+            "name": "سربری",
+            "price": 215
+          },
+          {
+            "name": "منگو پارادایس",
+            "price": 235
+          },
+          {
+            "name": "آیس تی",
+            "price": 190
+          },
+          {
+            "name": "آیس ماچااسترابری",
+            "price": 270
+          },
+          {
+            "name": "آیس ماچا منگو ",
+            "price": 260
+          },
+          {
+            "name": "آیس ماچا کوکو ",
+            "price": 260
+          }
+        ]
+      }
+    ]
+  },
+  "shake": {
+    "title": "SHAKE",
+    "categories": [
+      {
+        "name": "Shake",
+        "items": [
+          {
+            "name": "نوتلا",
+            "price": 290
+          },
+          {
+            "name": "لوتوس",
+            "price": 290
+          },
+          {
+            "name": "کارامل بادام زمینی",
+            "price": 280
+          },
+          {
+            "name": "ترامیسو",
+            "price": 280
+          },
+          {
+            "name": "پسته",
+            "price": 280
+          },
+          {
+            "name": "کوکو استرابری",
+            "price": 280
+          }
+        ]
+      }
+    ]
+  },
+  "cake": {
+    "title": "CAKE & DESSERT",
+    "categories": [
+      {
+        "name": "Cake & Dessert",
+        "items": [
+          {
+            "name": "کوکی نیویورکی",
+            "price": 110
+          },
+          {
+            "name": "کوکی ردولووت",
+            "price": 100
+          },
+          {
+            "name": "کوکی کرینکل شکلاتی",
+            "price": 100
+          },
+          {
+            "name": "کوکی گردو شکلاتی",
+            "price": 100
+          },
+          {
+            "name": "ترافل کرمی",
+            "price": 70
+          },
+          {
+            "name": "ترافل لوتوس",
+            "price": 70
+          },
+          {
+            "name": "کیک شکلاتی",
+            "price": 200
+          },
+          {
+            "name": "کیک هویج گردو",
+            "price": 210
+          },
+          {
+            "name": "چیز کیک سن سباستین",
+            "price": 220
+          },
+          {
+            "name": "تیرامیسو بالز",
+            "price": 240
+          },
+          {
+            "name": "تارت سیب و دارچین",
+            "price": 240
+          },
+          {
+            "name": "تارت گردو",
+            "price": 240
+          },
+          {
+            "name": "دونات",
+            "price": 210
+          },
+          {
+            "name": "کروسان کره ای",
+            "price": 210
+          },
+          {
+            "name": "کروسان طعم دار",
+            "price": 290
+          },
+          {
+            "name": "نوتلا توت فرنگی ، کره بادام زمینی موز ،کره پسته",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  "ciabattaandsalad": {
+    "title": "CIABATTA & SALAD",
+    "categories": [
+      {
+        "name": "Ciabatta Club",
+        "items": [
+          {
+            "name": "پنیر و گردو",
+            "price": 175
+          },
+          {
+            "name": "چیکن پستو",
+            "price": 285
+          },
+          {
+            "name": "بوقلمون پستو",
+            "price": 290
+          },
+          {
+            "name": "پروشوتو پستو",
+            "price": 395
+          },
+          {
+            "name": "مورتادلا گودا",
+            "price": 285
+          },
+          {
+            "name": "رست بیف گودا",
+            "price": 360
+          }
+        ]
+      },
+      {
+        "name": "Salad Bar",
+        "items": [
+          {
+            "name": "سالاد سزار",
+            "price": 350
+          },
+          {
+            "name": "سالاد میوه",
+            "price": 310
+          }
+        ]
+      }
+    ]
+  },
+  "addon": {
+    "title": "ADD-ON",
+    "categories": [
+      {
+        "name": "Granola & Oatmeal",
+        "items": [
+          {
+            "name": "گرانولا بری",
+            "price": 285
+          },
+          {
+            "name": "گرانولا موز و کره بادام زمینی",
+            "price": 270
+          },
+          {
+            "name": "اوتمیل بری",
+            "price": 285
+          },
+          {
+            "name": "اوتمیل موز و کره بادام زمینی",
+            "price": 270
+          }
+        ]
+      },
+      {
+        "name": "ADD-ON",
+        "items": [
+          {
+            "name": "تاپینگ",
+            "price": "30+"
+          },
+          {
+            "name": "(عسل ، سیروپ ، ...)",
+            "price": ""
+          },
+          {
+            "name": "خامه",
+            "price": "40+"
+          },
+          {
+            "name": "شیر بدون لاکتوز",
+            "price": "40+"
+          },
+          {
+            "name": "شیر بادام",
+            "price": "50+"
+          },
+          {
+            "name": "شیر نارگیل",
+            "price": "50+"
+          }
+        ]
+      }
+    ]
+  }
+}
